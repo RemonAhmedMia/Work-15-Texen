@@ -60,6 +60,18 @@
     margin-top: 110px;
 }
 
+/* Award Responsive */
+
+.award-one-item {
+    justify-content: center;
+    display: block !important;
+    text-align: center;
+}
+
+.award-one-item i {
+    margin-bottom: 20px;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -81,6 +93,18 @@
 
 .banner-style-one-thumb {
     margin-top: 110px;
+}
+
+/* Award Responsive */
+
+.award-one-item {
+    justify-content: center;
+    display: block !important;
+    text-align: center;
+}
+
+.award-one-item i {
+    margin-bottom: 20px;
 }
 
 }
