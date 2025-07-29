@@ -1,0 +1,57 @@
+/*================================ 
+    #RESPONSIVE CSS 
+====================================*/
+
+/* Extra large: large desktops, 1200px and up*/
+@media (min-width: 1200px) {  }
+
+/* large device: desktops, 992px and up*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    /* Navbar Responsive*/
+
+    .navbar .attr-right {
+	display: none;
+}
+    
+ }
+
+/* Tablet Layout: 768px.*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    /* Navbar Responsive*/
+
+    .navbar .attr-right {
+	display: none;
+}
+
+}
+
+/* MObile Layout: 576px.*/
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    /* Banner Responsive*/
+
+    /* Navbar Responsive*/
+
+    .navbar .attr-right {
+	display: none;
+}
+
+}
+
+/* MObile Layout: 576px.*/
+@media (max-width: 575.98px) { 
+
+/* Banner Responsive*/
+
+/* Navbar Responsive*/
+
+    .navbar .attr-right {
+	display: none;
+}
+
+
+}
