@@ -36,6 +36,18 @@
     margin-top: 110px;
 }
 
+/* Service Responsive */
+
+.service-one-heading h3 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.service-style-one-item h4 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -72,6 +84,18 @@
     margin-bottom: 20px;
 }
 
+/* Service Responsive */
+
+.service-one-heading h3 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.service-style-one-item h4 {
+    font-size: 22px;
+    font-weight: 700;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -105,6 +129,18 @@
 
 .award-one-item i {
     margin-bottom: 20px;
+}
+
+/* Service Responsive */
+
+.service-one-heading h3 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.service-style-one-item h4 {
+    font-size: 22px;
+    font-weight: 700;
 }
 
 }
